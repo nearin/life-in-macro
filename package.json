@@ -1,0 +1,30 @@
+{
+  "name": "life-in-macro",
+  "version": "0.0.1",
+  "description": "Web app for LifeInMacro.com",
+  "main": "app.js",
+  "engines": {
+    "node": "8.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearin/life-in-macro.git"
+  },
+  "keywords": [
+    "photo",
+    "blog",
+    "photography"
+  ],
+  "author": "Pontus Nydensten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nearin/life-in-macro/issues"
+  },
+  "homepage": "https://github.com/nearin/life-in-macro#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
